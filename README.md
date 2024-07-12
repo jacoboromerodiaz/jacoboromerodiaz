@@ -3,7 +3,7 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Name Entity Recognition using BERT in Pytorch](https://github.com/jacoboromerodiaz/NER_BERT_pytorch))
+  - [Name Entity Recognition using BERT in Pytorch](https://github.com/jacoboromerodiaz/NER_BERT_pytorch)
 
 
 <h2> 💬 Connect with me:</h2>
