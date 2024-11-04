@@ -11,4 +11,5 @@
 
 [<img align="left" alt="JacoboRomero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/jacobo-romero-diaz
+[linkedin]: www.linkedin.com/in/jacobo-romero-diaz 
+[:email:](mailto:jromerdi7@alumnes.ub.edu)
