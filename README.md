@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jacobo</h1>
 
-I'm a Physics and Biomedical Engineering student based in Barcelona. Feel free to reach out for any colaboration, via LinkedIn of email.
+I'm a Physics and Biomedical Engineering student based in Barcelona. Feel free to reach out for any colaboration, via LinkedIn or email.
 
 <h2>💻 Software Development Projects:</h2>
 
