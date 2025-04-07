@@ -6,7 +6,6 @@ I'm a Physics and Biomedical Engineering student based in Barcelona. Feel free t
 
 - <b>Python</b>
   - [Name Entity Recognition using BERT in Pytorch](https://github.com/jacoboromerodiaz/NER_BERT_pytorch)
-  - [Whistlit: Extreme music recognition using SoundNet in PyTorch](https://github.com/jacoboromerodiaz/whistlit-song-recognition)
 
 
 <h2> 💬 Connect with me:</h2>
